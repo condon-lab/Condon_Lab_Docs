@@ -8,7 +8,6 @@
 5. Failure to following these instructions will result in an individual’s pcard privileges discontinued.
 
 
-
 ### Details
 Obtaining the Pcard for Use:
 - Over the Phone
