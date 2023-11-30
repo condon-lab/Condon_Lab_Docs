@@ -13,7 +13,7 @@
 * International travel requires an additional form. This form can takes weeks to be approved so do not leave it to the last day.
 * The approver, in the Travel Authorization and Funding Approval section, is Cindy Barnett [barnettc@arizona.edu](mailto:barnettc@arizona.edu). You can check with Garry because the approver could change.
 
-### Q&A
+### FAQ
 * When is a Travel Authorization required?
 > A Travel Authorization is required when a University of Arizona Employee, Student, or Designated Campus Colleague will be on travel status (at least 35 miles outside of their duty post) and travels on behalf of University business, regardless of expenses incurred by the University.
 
