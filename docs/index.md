@@ -2,7 +2,7 @@
 This is a repository for holding all things documentation that might be helpful. It has been created using [mkdocs](https://www.mkdocs.org).
 
 ## Contributing
-To contribute first you need to clone this repo
+To contribute first you need to be added to the repo. Reach out to [Laura](https://github.com/lecondon) and/or [Will](https://github.com/welytle) to be added. Then clone this repo
 `git clone git@github.com:condon-lab/Condon_Lab_Docs.git`
 
 Then you'll need to install the `mkdocs` package by running 
