@@ -1,13 +1,22 @@
 # Information Regarding Travel Authorization
 
 1. A Travel Authorization is required when a University of Arizona Employee, Student, or Designated Campus Colleague will be on travel status (at least 35 miles outside of their duty post) and travels on behalf of University business, regardless of expenses incurred by the University.
-2. The form must be downloaded always from [https://financialservices.arizona.edu/form/travel-authorization-form](https://financialservices.arizona.edu/form/travel-authorization-form) because it has a unique correlative number.
-3. You must save the form into your device before filling it out. If you complete the form in your web browser data will be lost.
+2. The form must be fill it in the online system. [https://travel.financialservices.arizona.edu/] (https://travel.financialservices.arizona.edu/). Remember you must be registerd in the system.
+
+
+### Create Travel Request:
+1. To create a request from the homepage click New (top + next to University of Arizona) and choose Start a Request and fill in all the required fields.
+2. Add the Bussines Travel dates with the maximum extension to think it would last. Include personal time on that.
+3. Each time the conference has Lodging options you should add this to the form. You can use another later explaining the reasons.
+4. You have to explain the reasons of the conference, academic development, paper presentation, University representation, etc. Add a small detail about how the trip would be payed.
+5. The organization must (0469) Hydrology andAtmospheric Sci.
+6. When you click Create a Request, if you missed a required field you will get an error message and can go back and add the info.
+Of course get at Garry with any questions [gforger@arizona.edu](mailto:gforger@arizona.edu)
+
 
 ### Tips
 
 * The UA NETID number can be found at the top right of the uaccess web page.
-* The DEPT/ORG code is HWRS/469.
 * If you have an RA you are considered an employee. In other cases, you are just a student.
 * For the funding source (Account), in the travel detail section, you should ask Garry [gforger@arizona.edu](mailto:gforger@arizona.edu) about your account. Ask every time because your funding source could change.
 * International travel requires an additional form. This form can takes weeks to be approved so do not leave it to the last day.
