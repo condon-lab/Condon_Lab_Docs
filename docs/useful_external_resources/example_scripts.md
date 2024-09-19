@@ -1,6 +1,4 @@
-# Example scripts
-
-- Example script for a simple hello world script in python [Hello World](https://github.com/lecondon/Condon_Lab_Docs/blob/main/docs/example_scripts/hello_world.py)
+# Group Example Scripts 
 
 - [Jupyter Notebook](https://gist.github.com/arbennett/7eb539f11331d22c6ac62c14e358221a) showing the storage-elevation changes for Lake Powell using USGS and ResOps data 
 
