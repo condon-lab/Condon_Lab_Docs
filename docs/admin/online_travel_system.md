@@ -4,7 +4,7 @@ You must be registered in the system for paperwork related with travel authoriza
 
 ### To activate your account:
 1. Visit [https://travel.financialservices.arizona.edu/] (https://travel.financialservices.arizona.edu/)
-2. Once logged in, click on the profile botton (blue circle in the upper right corner)
+2. Once logged in, click on the profile button (blue circle in the upper right corner)
 2. Click on Profile Settings
 3. On this page, click on Personal Information, follow the prompts and fill in all the required info, in red. The information added here must match exactly with the information in UAccses. and ID
 4. Remember to click Save.
