@@ -1,6 +1,6 @@
 # Signing up the travel system account
 
-You must be registered in the system for paperwork related with travel authorizations and travel reimbursements. Booking flighs and lodging can be done in the same system too but in general it is more expensive. Please check in the designed hotels by the conference and in alternative services.
+You must be registered in the system for paperwork related with travel authorizations and travel reimbursements. Booking flights and lodging can be done in the same system too but in general it is more expensive. Please check in the designated hotels by the conference and in alternative services.
 
 ### To activate your account:
 1. Visit [https://travel.financialservices.arizona.edu/] (https://travel.financialservices.arizona.edu/)
