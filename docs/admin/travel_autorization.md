@@ -7,7 +7,7 @@
 ### Create Travel Request:
 1. To create a request from the homepage click New (top + next to University of Arizona) and choose Start a Request and fill in all the required fields.
 2. Add the Bussines Travel dates with the maximum extension you think the conference would last. Include personal time on that.
-3. Each time the conference has Lodging options you should add this to the form. You can use another later explaining the reasons.
+3. Each time the conference has lodging options you should add this to the form. You can use another later explaining the reasons.
 4. You have to explain the reasons of the conference, academic development, paper presentation, University representation, etc. Add a small detail about how the trip would be payed.
 5. The organization must (0469) Hydrology and Atmospheric Sci.
 6. When you click Create a Request, if you missed a required field you will get an error message and can go back and add the info.
