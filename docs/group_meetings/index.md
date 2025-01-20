@@ -52,6 +52,17 @@ Group Meeting Coordinator: Patricia Puente
 |4/6 | One Slide Research Updates||
 |5/11| Building a Website with Patricia Puente|[Slides for Website Building](https://docs.google.com/presentation/d/1O4L9wwFIlB7TUeVAkopre1496MyrQUSb4eiZ7Osnyck/edit?usp=sharing)|
 
+### Summer
+Group Meeting Coordinator: Patricia Puente
+
+---
+| Date | Description| Resources |
+|---|---|---|
+| 5/18 | One slide research updates |[Slides for Research Updates](https://docs.google.com/presentation/d/11LK8Pw1Z1BJ13GMMXKc2dMaElnCYbAeABIltgmqCVaI/edit?usp=sharing)|
+| 6/8 | Practice revising paragraphs from a ML paper "Efficiently<br>  Modeling Long Sequences with Structured State Spaces"| [Slides for Explanataion of the paper](https://docs.google.com/presentation/d/1Ingbn6_Q9I9LYGec3Ug2J6RXWw8ZtKtP1oCsoL5aQ58/edit?usp=sharing)<br> [Slides for Paragraph Rewrite](https://docs.google.com/presentation/d/1jpbzNehWtB4C2QYVb0iVb-dmHNMR7RvmYkmLpRXZPRs/edit?usp=sharing)
+| 6/29 | Team introductions | [Introduction Slides](https://docs.google.com/presentation/d/1FJS9BZZVProcpEMe1h8WS4e2vuDDGbysc11Aonj7xa0/edit?usp=sharing)
+| 7/13 | One slide research updates | [Slides for Updates](https://docs.google.com/presentation/d/1FJWe16-TlJ106ockHHEKepz4pYYfURdUXumeEbEqAO4/edit?usp=sharing)
+
 ### Fall
 Group Meeting Coordinator: Danielle Tadych
 
