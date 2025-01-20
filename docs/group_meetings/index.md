@@ -4,6 +4,7 @@ Below is a summary of our past group meetings.  They are organized by year and s
 ## 2024
 ### Spring
 Group Meeting Coordinator: Danielle Tadych
+
 ---
 | Date | Description| Resources |
 |---|---|---|
@@ -23,6 +24,7 @@ Group Meeting Coordinator: Danielle Tadych
 
 ### Fall
 Group Meeting Coordinator: Ben West
+
 ---
 | Date | Description| Resources |
 |---|---|---|
