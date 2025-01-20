@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://condon-lab.github.io/Condon_Lab_Docs/how_to_notes/git_workflows/" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Git Workflows - Condon Research Group Docs</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Git Workflows";
+        var mkdocs_page_input_path = "how_to_notes/git_workflows.md";
+        var mkdocs_page_url = "/Condon_Lab_Docs/how_to_notes/git_workflows/";
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> Condon Research Group Docs
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Condon Research Group Docs</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Admin</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../admin/pcard/">Pcard</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../admin/travel/">Traveling on University Business</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Group meetings</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../group_meetings/">Group Meetings</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">How to notes</span></p>
+              <ul class="current">
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Git Workflows</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#what-is-git">What is git</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#getting-started-with-git">Getting started with git</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#making-an-account">Making an account</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#ssh-keys">SSH keys</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#helpful-git-commands">Helpful git commands</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#basic-pull-request-workflow">Basic pull request workflow</a>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" >HPC systems</a>
+    <ul>
+                <li class="toctree-l2"><a class="reference internal" href="../HPC_systems/UA_HPC/">UA HPC Information</a>
+                </li>
+                <li class="toctree-l2"><a class="reference internal" href="../HPC_systems/cheyenne/">Running on Cheyenne (NCAR)</a>
+                </li>
+                <li class="toctree-l2"><a class="reference internal" href="../HPC_systems/general_info/">General info</a>
+                </li>
+                <li class="toctree-l2"><a class="reference internal" href="../HPC_systems/parflow_install/">ParFlow Install</a>
+                </li>
+                <li class="toctree-l2"><a class="reference internal" href="../HPC_systems/verde/">Verde</a>
+                </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" >Data and file transfers</a>
+    <ul>
+                <li class="toctree-l2"><a class="reference internal" href="../data_and_file_transfers/apple_remote_desktop_ssh/">Remote Desktop / SSH / Basic Command line</a>
+                </li>
+                <li class="toctree-l2"><a class="reference internal" href="../data_and_file_transfers/cyverse/">General Cyverse Information</a>
+                </li>
+                <li class="toctree-l2"><a class="reference internal" href="../data_and_file_transfers/globus/">Globus File Transfer</a>
+                </li>
+    </ul>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Useful external resources</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../useful_external_resources/example_scripts/">Group Example Scripts</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../useful_external_resources/great_python_packages/">Great python packages</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../useful_external_resources/parflow_resources/">Parflow resources</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../useful_external_resources/research_repos/">Research repos</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">Condon Research Group Docs</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">How to notes</li>
+      <li class="breadcrumb-item active">Git Workflows</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="git-workflows">Git Workflows</h1>
+<h2 id="what-is-git">What is git</h2>
+<p>Git is version control software used to enable collaboration between many people on a single project. <a href="https://www.youtube.com/watch?v=2ReR1YJrNOM">This youtube video gives a good synopsis of what git is.</a></p>
+<h2 id="getting-started-with-git">Getting started with git</h2>
+<h3 id="making-an-account">Making an account</h3>
+<p>Git is a software technology that is independent of remote repository systems like github, gitlab and bitbucket. However it is almsot used in conjunction with one of these services. This project, and most others, are managed through github. If you don't already, you'll need a github account. <a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F&amp;source=header-home">You can make a github account here!</a></p>
+<h3 id="ssh-keys">SSH keys</h3>
+<p>In most cases, to start using git on a new computer you need to set up a new SSH key. An SSH (secure shell) key is a method of security control where an ecnrypted key is generated and stored on a client and service. These keys are used when the client trys to connect to the service to verify that both parties are who they say they are.</p>
+<p>You'll need an SSH key to clone using SSH rather than https, SSH is genreally considered to be a safer method and is therefore reccomended.</p>
+<p><a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F&amp;source=header-home">Follow these directions to generate a new SSH key.</a> You can choose to add a passphrase to your SSH key or not. If you do choose to add a passphrase it is recommended that you add the key to an SSH-agent. This will make it so you don't have to type in your passphrase everytime you interact with git. <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent">Follow these instructions to add your key to an SSH agent</a></p>
+<p>Now that you've generated an SSH key, <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account">follow these instructions to add your SSH key to your github account</a></p>
+<h2 id="helpful-git-commands">Helpful git commands</h2>
+<p><a href="https://about.gitlab.com/images/press/git-cheat-sheet.pdf">Here is a decent git cheat sheet.</a> This reference covers the basic usage of git. Be aware that the git rabbit hole is deep and things can get complciated fast, so don't be affraid to google specific issues you experience. </p>
+<h2 id="basic-pull-request-workflow">Basic pull request workflow</h2>
+<p>Below is outlined a typical workflow for opening pull requests (PR) and participating in code review. This applies when you are working in a shared repo (like this one 😉).
+These instructions assume you already have cloned the repo (<code>git clone &lt;repo address&gt;</code>) and have made and committed changes (<code>git add &lt;changed file&gt;</code> and <code>git commit -m &lt;commit message&gt;</code>)</p>
+<ul>
+<li>Before you push your code to open a PR it is a good practice to pull from the main branch to make sure you have the most up-to-date version of the code: On your working branch <code>git pull origin main</code><ul>
+<li>Resolve any merge conflicts</li>
+</ul>
+</li>
+<li>Push your code to the remote <code>git push</code> or if it's your first push on this branch <code>git push --set-upstream origin &lt;branch name&gt;</code></li>
+<li>Open a new pull request. <ul>
+<li>If you navigate to the repo's page in github shortly after pushing you should see a large green button prompting you to open a PR. </li>
+<li>Otherwise you need to click the PR tab, select <code>New Pull Request</code> and configure <code>main &lt;- &lt;your branch&gt;</code></li>
+</ul>
+</li>
+<li>The above steps will open a new PR form, please write a description of your changes. If you are working on an established project it's helfpul to include the steps you used to test your code as well as screen shots. </li>
+<li>Assign one or more reviewers, or otherwise let folks know you have a PR ready for review</li>
+<li>Once your code has been reviewed there is likely some changes you need to make, you can make changes on your current branch and push them to the remote, the PR will pick up the changes.<ul>
+<li>It's good to make make sure you have the most recent code from <code>main</code> before each push back to the PR (<code>git pull origin main</code> and then resolve merge conflicts if they exist)</li>
+</ul>
+</li>
+<li>Once your PR is approved, either you or someone from the project will merge your changes in. This varies from project to project so just ask.</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../../group_meetings/" class="btn btn-neutral float-left" title="Group Meetings"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../HPC_systems/UA_HPC/" class="btn btn-neutral float-right" title="UA HPC Information">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../../group_meetings/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../HPC_systems/UA_HPC/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
