@@ -1,3 +1,28 @@
+# Group Meeting Materials 
+Below is content from past group meetings that will be helpful to reference at some point. 
+
+**Jump to presentation:**
+
+- [Principles of Visualization](#principles-of-visualizations)
+- [Anatomy of a Publication Figure](#anatomy-of-a-publication-figure)
+
+
+---
+## Principles of Visualizations 
+<iframe src="pdfs/Principles_of_visualization.pdf" width="100%" height="600px">
+This browser does not support PDFs. Please download the PDF to view it: 
+<a href="pdfs/Principles_of_visualization.pdf">Download PDF</a>.
+</iframe>
+
+---
+## Anatomy of a Publication Figure
+<iframe src="pdfs/anatomy_of_figure.pdf" width="100%" height="600px">
+This browser does not support PDFs. Please download the PDF to view it: 
+<a href="pdfs/anatomy_of_figure.pdf">Download PDF</a>.
+</iframe>
+
+---
+
 # Group Meetings
 Below is a summary of our past group meetings.  They are organized by year and semester.  After the conclusion of each semester, the lab group meeting coordinator will update this doc accordingly.  Make sure to change the permissions on any slide links to viewer only.
 
