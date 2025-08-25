@@ -2,7 +2,7 @@
 This is a repository for holding all things documentation that might be helpful. It has been created using [mkdocs](https://www.mkdocs.org).
 
 ## Contributing
-To contribute first you need to be added to the repo. Reach out to [Laura](https://github.com/lecondon) and/or [Will](https://github.com/welytle) to be added. 
+To contribute first you need to be added to the repo. Reach out to [Laura](https://github.com/lecondon) to be added. 
 
 --- 
 ## First Time Setup 
@@ -55,6 +55,6 @@ If you remove an image from an existing doc, please remove the image file also.
 
 You can then run `mkdocs serve` to see a local version of your new and updated docs in you browse at `http://127.0.0.1:8000/`
 
-When everything looks good open a pull request to `main` and either ping in slack or assign [Laura](https://github.com/lecondon) and/or [Will](https://github.com/welytle) to review.
+When everything looks good open a pull request to `main` and either ping in slack or assign [Laura](https://github.com/lecondon) to review.
 
-After your PR has been appoved, merge it in and go check out your new docs over at [https://condon-lab.github.io/Condon_Lab_Docs/](https://condon-lab.github.io/Condon_Lab_Docs/)
+After your PR has been appoved, merge it in and go check out your new docs over at [https://condon-lab.github.io/Condon_Lab_Docs/](https://condon-lab.github.io/Condon_Lab_Docs/).
