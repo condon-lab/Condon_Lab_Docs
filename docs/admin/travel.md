@@ -2,63 +2,74 @@
 
 Traveling to conferences and other project related meetings is generally reimbursable but it is critical that you follow the following procedures.  Please note that there are steps that need to happen **before** you travel so plan accordingly and make sure you follow all the steps in order to be reimbursed. 
 
-If it’s your first time traveling with UA you will need to first activate your account in the university travel system (see `The first time you travel`). 
+If it’s your first time traveling with UA you will need to first activate your account in the university travel system (see [The first time you travel](#the-first-time-you-travel) section). 
 
 **For all trips you need to do the following:**
 
-1. Get approval from Laura for the travel you are planning on doing. 
-2. Create a travel authorization and travel request using the University travel system. This needs to be done **before** you do any booking or make travel arrangements (see `Before you travel`). 
-3. Once approved, make all your travel arrangements: flights, hotels etc (make sure to check per diem rates before booking so you know what you can be reimbursed for)
-4. Follow the reimbursement procedures outlined (see `After you travel`). Please do this as soon as possible but no later than **2 weeks** after you return. You can submit up to two reimbursement requests per trip so if you would like to be reimbursed for some large expenses like airfare before you go this is possible. 
-5. Add the information about your presentation to the group Zotero (note that we will not approve your expenses unless this is done)
+1. Get approval from Laura for the travel you are planning to do. 
+2. Create a travel authorization and travel request using the University travel system. This needs to be done **before** you do any booking or make travel arrangements (see [Before you travel](#before-you-travel) section). 
+3. Once approved, make all your travel arrangements: flights, hotels, etc. (make sure to check per diem rates before booking so you know what you can be reimbursed for)
+4. Follow the reimbursement procedures outlined (see [After you travel](#after-you-travel) section). Please do this as soon as possible but no later than **2 weeks** after you return. You can submit up to two reimbursement requests per trip so if you would like to be reimbursed for some large expenses like airfare before you go this is possible. 
+5. Add the information about your presentation to the group Zotero. <u>Note that expenses will not be approved unless this is done.</u>
 
 **Some general guidelines to keep in mind:**
 
 1. Travel is a privilege. All travel is supported by grant money and it is the expectation that you manage expenses in a reasonable way. 
-2. The maximum reimbursement you can receive is determined by the per diem rates you can find here.  
+2. The maximum reimbursement you can receive is determined by the per diem rates you can find in [After you travel](#after-you-travel).  
 3. For food expenses you should only request reimbursement for the amount you actually spent and you should note when meals were provided for you (i.e. lunch provided at a meeting) and not request reimbursement for this. 
-4. It is okay to have personal travel at the start or end of your trip but you will need to document things and you can’t be reimbursed for any personal travel. Please refer to the guidelines here. 
-5. We cannot provide cash advances for travel. To manage out of pocket expenses you can use the PCARD to make bookings (see guidelines here) and submit for reimbursement for some expenses before you go. 
+4. It is okay to have personal travel at the start or end of your trip but you will need to document things and you can’t be reimbursed for any personal travel. Please refer to the [Guidelines for combining personal and business travel](#guidelines-for-combining-personal-and-business-travel). 
+5. We cannot provide cash advances for travel. To manage out of pocket expenses you can use the PCARD to make bookings (see pcard guidelines [here](https://condon-lab.github.io/Condon_Lab_Docs/admin/pcard/)) or submit for reimbursement for some expenses before you go. 
+6. In general, forms and policies for the department can be found in [Employee Resources](https://has.arizona.edu/employee-resources-0). The following list are the forms needed to be filled out for three scenarios - use of pcard, out-of-pocket expenses prior, and after your trip. 
+    - If the department credit card (pcard) is used, then the [PCard Smartsheet](https://app.smartsheet.com/b/form/165188be773a415f8cd484aa13105951) must be filled out. 
+    - If you are looking to be reimbursed before the trip takes place, such as the registration fee or airfare, then fill out the ...
+    - If you are looking to reimbursed after the trip takes place, then fill out the [HAS Travel Expense Form](https://app.smartsheet.com/b/form/fb94774fd40f462299665edb9e89fe3e). 
 
-## The First time you travel
+    Note: To students prior to Fall 2025, these are all Smartsheet forms so you no longer need to download and fill out a PDF.
+
+7. All receipts must be submitted electronically, if you have paper receipts, you can scan them or take a photo of them with your phone. 
+
+
+## The first time you travel
 **Setting up your account in the University travel system**
 
-1. Visit [https://travel.financialservices.arizona.edu/](https://travel.financialservices.arizona.edu/)
+1. Go to [https://travel.financialservices.arizona.edu/](https://travel.financialservices.arizona.edu/) and log in with you NetID.
 2. Once logged in, click on the profile button (blue circle in the upper right corner)
 3. Click on `Profile Settings`
-4. On this page, click on `Personal Information`, follow the prompts and fill in all the required info, in red. The information added here must match exactly with the information in UAccess and ID
+4. On this page, click on `Personal Information`, follow the prompts, and fill in all the required information in red. The information added here must match exactly with the information in UAccess and ID.
 5. Remember to click `Save`.
-6. Make Cynthia Barnett (barnettc@arizona.edu) a delegate:
-7. Back on the Profile Options page on the left menu click `Request Delegates`
-8. On this page click `Add`. Click everything except for `Temporary`, click `Save`.
-9. Make Garry Forger ([gforger@arizona.edu](mailto:gforger@arizona.edu)) a travel assistant:
-    - on `travel settings`, click `Assistants/Arrangers`
-    - Search for Garry and give him access for booking. Set as the primary assistant
+6. Make Cynthia Barnett ([barnettc@arizona.edu](mailto:barnettc@arizona.edu)) a delegate:
+    - Back on the Profile Options page on the left menu click `Request Delegates`
+    - On this page click `Add`. Click everything except for `Temporary`, and click `Save`.
+7. Make Garry Forger ([gforger@arizona.edu](mailto:gforger@arizona.edu)) a travel assistant:
+    - On `travel settings`, click `Assistants/Arrangers`
+    - Search for Garry and give him access for booking. Set as the primary assistant.
 
 
 ## Before you travel
 **Submit a authorization and travel request**
 
-Travel authorizations **must** be completed before you travel in order to get reimbursed. If you are traveling internationally there are additional steps so please start this process early. Please see the steps below and reach out to Garry if you have any questions. 
+Travel authorizations **must** be completed **before** you travel in order to get reimbursed. If you are traveling internationally, there are additional steps so please start this process early (documents need to be submitted at least 30 days prior to travel date). Please see the steps below and reach out to Garry if you have any questions. 
 
 
 **Step 1: Create a Travel Authorization**
 
 1. A Travel Authorization is required when a University of Arizona Employee, Student, or Designated Campus Colleague will be on travel status (at least 35 miles outside of their duty post) and travels on behalf of University business, regardless of expenses incurred by the University.
-2. The form must be filled in the online system. [https://travel.financialservices.arizona.edu/](https://travel.financialservices.arizona.edu/). Remember you must be registered in the system.
+2. The form must be filled in the online system - [https://travel.financialservices.arizona.edu/](https://travel.financialservices.arizona.edu/). Remember you must be registered in the system, if not see [the first time you travel](#the-first-time-you-travel) section.
 
 
 **Step 2: Create a Travel Request**
 
-1. To create a request from the homepage click `Create` (top left) and choose `Start a Request` and fill in all the required fields.
-2. Add the Business Travel dates with the maximum extension you think the conference would last. Example, if your conference runs from May 3 to the 6th, you would have May 2 and May 7 as travel days. If you are staying for non-work related business, indicate those dates before or after the conference/meeting. .
-3. Each time the conference has lodging options you should add this to the form. You can use another later explaining the reasons.
-4. Explain the reasons for the conference, academic development, paper presentation, University representation, etc. 
+1. To create a request from the homepage click `Create` (top left), choose `Start a Request`, and fill in all the required fields.
+2. Add the Business Travel dates with the maximum extension you think the conference would last. Example, if your conference runs from May 3 to the 6th, you would have May 2 and May 7 as travel days. If you are staying for non-work related business, indicate those dates before or after the conference/meeting. 
+    - For the case you include personal travel during business travel, please note that you **CANNOT** use the PCard to purchase flights. For this case, you must use a personal card and provide the receipt along with **2 comparison flights from your duty post of Tucson, AZ** for business travel dates only. If your comparison flights are less expensive than the flight purchased that includes personal days, FSO will only allow us to reimburse the lesser of the two. 
+3. Each time the conference has lodging options you should add this to the form. You can use other lodging options, just need to explain the reasons. (?)
+4. Explain the reasons for the conference, either for academic development, paper presentation, or University representation, etc. 
 5. The organization must be (0469) Hydrology and Atmospheric Sci.
 6. For Account, indicate the account you are paid from.  If you do not know this account number, check with Garry.
 7. If you are traveling internationally, you must get an International Travel Registry number to include with the request.  At this site [Forms](https://ua-risk.terradotta.com/index.cfm?FuseAction=Abroad.ViewLink&Parent_ID=0&Link_ID=FE60DEBD-5056-BA1F-712211750130A3F9) click on `Travel Forms`, then on `Travel Authorization`,  This has to be done at least 30 days before the travel takes place. 
-8. When you click `Create a Request`, if you missed a required field you will get an error message and can go back and add the info. Of course get at Garry with any questions [gforger@arizona.edu](mailto:gforger@arizona.edu)
+8. When you click `Create a Request`, if you missed a required field you will get an error message and can go back and add the info. Of course message Garry with any questions [gforger@arizona.edu](mailto:gforger@arizona.edu)
 9. You will receive a notification when your request is approved. 
+10. **Very Important:** Your approved request will have a 4 digit code, a combination of letters and numbers and you will need to refer to this code when requesting reimbursement. 
 
 
 ## After you travel
