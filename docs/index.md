@@ -22,7 +22,7 @@ Checkout a new branch where you can add/edit docs
 Then edit docs to your heart's content!
 
 ---
-## Routine Updates
+## Routine Updates (local)
 
 **Step 1** - Sync with main
 
@@ -43,7 +43,9 @@ Or update existing brach </br>
 
 Then edit docs as needed. 
 
---- 
+---
+## Helpful tips while editing 
+
 If you prefer to write documentation using google docs, you can convert a google doc to a markdown file easily using [this chrome extension](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607).
 Additionally, [here are some helpful markdown tips and tricks](https://www.markdownguide.org/cheat-sheet/).
 
@@ -53,8 +55,17 @@ If you want to add an image to your documentation simply add the image you want 
 ```
 If you remove an image from an existing doc, please remove the image file also. 
 
-You can then run `mkdocs serve` to see a local version of your new and updated docs in you browse at `http://127.0.0.1:8000/`
+You can run `mkdocs serve` in the terminal to see a local version of your new and updated docs in you browse at `http://127.0.0.1:8000/`. To shutdown the browser `control` + `C`. 
+
+--- 
+## Ready to Push Updates to `main` 
+
+If your current branch does not exist, run `git push -u origin <brach-name>` 
+
+If it does exist, run `git push` 
 
 When everything looks good open a pull request to `main` and either ping in slack or assign [Laura](https://github.com/lecondon) to review.
 
 After your PR has been appoved, merge it in and go check out your new docs over at [https://condon-lab.github.io/Condon_Lab_Docs/](https://condon-lab.github.io/Condon_Lab_Docs/).
+
+
