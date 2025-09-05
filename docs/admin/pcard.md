@@ -1,4 +1,6 @@
-## Guidelines for using the PCARD (university credit card): 
+# PCard Use
+
+**Guidelines for using the PCARD (university credit card):**
 
 Laura’s lab group has a dedicated Pcard (credit card) as of 2024.  Garry is the keeper of the card, please contact him about using the card for purchasing travel related items, technology and other work related items. 
 

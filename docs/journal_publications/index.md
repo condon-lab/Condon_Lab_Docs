@@ -1,6 +1,9 @@
-# Group Meeting Materials 
+# How to look for a Journal 
 Below is content from past group meetings that will be helpful to reference at some point. 
 
+## How to submit 
+
+## Making visualizations
 **Jump to presentation:**
 
 - [Principles of Visualization](#principles-of-visualizations)
@@ -9,17 +12,10 @@ Below is content from past group meetings that will be helpful to reference at s
 
 ---
 ## Principles of Visualizations 
-<iframe src="pdfs/Principles_of_visualization.pdf" width="100%" height="600px">
-This browser does not support PDFs. Please download the PDF to view it: 
-<a href="pdfs/Principles_of_visualization.pdf">Download PDF</a>.
-</iframe>
+
 
 ---
 ## Anatomy of a Publication Figure
-<iframe src="pdfs/anatomy_of_figure.pdf" width="100%" height="600px">
-This browser does not support PDFs. Please download the PDF to view it: 
-<a href="pdfs/anatomy_of_figure.pdf">Download PDF</a>.
-</iframe>
 
 ---
 

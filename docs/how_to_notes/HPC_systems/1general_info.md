@@ -1,3 +1,5 @@
+# General Info
+
 ## How to interact with HPC
 Once you have an account you can ssh into a terminal instance as such (example for Cheyenne)
 
@@ -10,7 +12,7 @@ Once you have an account you can ssh into a terminal instance as such (example f
         3. You probably already set up duo when you set up your account, look on NCARs website for Cheyenne or call the help desk
     3. You’re logged in!
 
-For writing code it is recommended to use the ![remote explorer extension](https://code.visualstudio.com/docs/remote/ssh) in vscode. This will let you edit files on the machine via a vscode window on your machine. You can then run these files however your HPC requires.
+For writing code it is recommended to use the [remote explorer extension](https://code.visualstudio.com/docs/remote/ssh) in vscode. This will let you edit files on the machine via a vscode window on your machine. You can then run these files however your HPC requires.
 
 ## Where to do your runs
 If possible, it is preferred to setup your runs in a folder owned by the group you belong to, not your personal scratch directory. This is to make collaboration and the eventuality of handing off your model easier. It WILL be harder than you think to move from your personal storage to the group folder if you want to make that change down the line.

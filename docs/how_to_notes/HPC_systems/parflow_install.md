@@ -1,7 +1,9 @@
 
 # ParFlow Install
 
-**_Laura Condon, 2/13/19_**
+**_Update History_** </br>
+_Laura Condon, Feb 2019_
+
 
 ## We recommend you use the parflow blog if you can instead of this page
 [The blog ](http://parflow.blogspot.com/) has install instructions for many systems. If you can use a resource there to help you it is updated more frequently. This page has been left up in case any of the dependency links are platform dependent (as in if you hypotheticall need to download and build a specific version of MPI on Ocelot for Parflow), but it is only recommended to use it as reference to debug why your install is not working.
