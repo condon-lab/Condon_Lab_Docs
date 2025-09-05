@@ -1,6 +1,7 @@
 # Remote Desktop / SSH / Basic Command line
 
-**Amanda Triplett 10/2019**
+**_Update History_** </br>
+_Amanda Triplett, Oct 2019_
 
 **Description:  **Accessing your computer via SSH through your command line with a general example of how to create a TAR file remotely and move it to your home computer. It also outlines how to remotely manage your desktop from mac to mac computer.
 
