@@ -30,14 +30,3 @@ Make sure to fork your GitHub into the Condon-Lab organization.
     - Example: `Spinti_2023_RiverFramgmentation` 
 * Add description "Repository supporting [citation]"
     - Example: Repository supporting “De la Fuente LA, MR Ehasnai, HJ Gupta, LE Condon (2024). Toward interpretable LSTM-based modeling of hydrological systems. Hydrology and Earth Sciences, Vol 28 Issue 4, 945–971." https://hess.copernicus.org/articles/28/945/2024/
-
-
-
-
-## Making visualizations
-**Jump to presentation:**
-
-- [Principles of Visualization](#principles-of-visualizations)
-- [Anatomy of a Publication Figure](#anatomy-of-a-publication-figure)
-
-
