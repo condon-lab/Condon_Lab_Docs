@@ -1,15 +1,13 @@
 # Running on Cheyenne (NCAR)
 
-**Amanda Triplett **
+**_Update History_** </br>
+_Amanda Triplett, Aug 2020_
 
-**Original: **12/2019
-
-**Update: **08/2020
 
 
 ## Description
 
-** **This gives an overview with examples of how to remotely access HPC resources at NCAR (specifically Cheyenne), update your bash profile and modules, an example job_script with the commands Cheyenne needs to run, how to run and check your job as well as useful information to transfer and edit your files. 
+This gives an overview with examples of how to remotely access HPC resources at NCAR (specifically Cheyenne), update your bash profile and modules, an example job_script with the commands Cheyenne needs to run, how to run and check your job as well as useful information to transfer and edit your files. 
 
 
 ## Software

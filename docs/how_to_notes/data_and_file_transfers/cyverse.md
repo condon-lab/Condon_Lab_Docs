@@ -1,9 +1,11 @@
 # General Cyverse Information
 
-**_Laura Condon, Jan 2019_**
+**_Update History_** </br>
+_Laura Condon, Jan 2019_
 
 
-## **Description:  **Running notes with links and tips for doing file transfers with Cyverse.  Feel free to update and add to this document as needed. 
+## Description: 
+Running notes with links and tips for doing file transfers with Cyverse.  Feel free to update and add to this document as needed. 
 
 
 ---

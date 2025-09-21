@@ -1,6 +1,7 @@
 # Globus File Transfer
 
-**_Abe, May 8th, 2020_**
+**_Update History_** </br>
+_Abe Farley, May 2020_
 
 
 ## Description
